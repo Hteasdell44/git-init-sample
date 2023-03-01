@@ -1,0 +1,20 @@
+#yesAnswer {
+
+    display: none;
+
+}
+
+#noAnswer {
+
+    display: none;
+    
+}
+
+.button { 
+
+    background-color: aqua;
+    color: white;
+    width: 25vw;
+    height: 25vh;
+    
+}
